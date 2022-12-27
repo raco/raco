@@ -24,7 +24,7 @@ Hi there! I'm an Angular developer with a passion for building web applications 
 - Strong understanding of HTML, CSS, and JavaScript
 - Experienced with Git and version control
 - Familiar with Agile development methodologies
-- 
+
 <!--
 ## Projects
 Here are a few of my notable projects:
@@ -36,3 +36,5 @@ Here are a few of my notable projects:
 ## Contact
 
 Feel free to reach out to me via my LinkedIn or email if you have any questions or want to collaborate on a project. I'm always looking for new opportunities to learn and grow as a developer.
+
+https://www.linkedin.com/in/raco/
