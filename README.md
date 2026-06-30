@@ -1,40 +1,62 @@
-<!--
-**raco/raco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Renato 👋
 
-Here are some ideas to get you started:
+Full Stack Software Engineer focused on building scalable web platforms, automation systems, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing software that is fast, maintainable, and solves real business problems.
 
+## 🚀 Tech Stack
 
-# Welcome to my GitHub profile! 👋
+### Frontend
+- Angular (latest versions)
+- TypeScript
+- RxJS
+- NgRx
+- Angular Material
+- Ionic
+- HTML5 & CSS3
 
-Hi there! I'm an Angular developer with a passion for building web applications that are fast, responsive, and easy to use.
+### Backend
+- Node.js
+- NestJS
+- Express
+- REST APIs
 
-## Skills
+### Databases
+- MySQL
+- PostgreSQL
+- Redis
 
-- Proficient in Angular, including experience with Angular Material, RxJS, and NgRx
-- Strong understanding of HTML, CSS, and JavaScript
-- Experienced with Git and version control
-- Familiar with Agile development methodologies
+### Cloud & DevOps
+- Docker
+- Nginx
+- AWS (S3, EC2)
+- Linux
+- Git & GitHub
+- CI/CD
 
-<!--
-## Projects
-Here are a few of my notable projects:
+### AI & Automation
+- OpenAI APIs
+- AI-assisted software development
+- LLM integrations
+- Prompt Engineering
+- AI workflow automation
 
-[Project Name]: A brief description of the project and what it does.
-[Project Name]: A brief description of the project and what it does.
-[Project Name]: A brief description of the project and what it does.
--->
-## Contact
+## 💡 What I'm currently working on
 
-Feel free to reach out to me via my LinkedIn or email if you have any questions or want to collaborate on a project. I'm always looking for new opportunities to learn and grow as a developer.
+- Building scalable logistics platforms
+- Integrating AI into business workflows
+- Designing high-performance backend services
+- Developing modern Angular and Ionic applications
 
-https://www.linkedin.com/in/raco/
+## 📚 Currently learning
+
+- Advanced AI Agents
+- MCP Servers
+- Multi-agent architectures
+- Cloud-native software design
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/raco/
+
+Thanks for visiting my profile!
